@@ -9,6 +9,7 @@
 
 * **Python 全栈开发教程**
     - 链接：[https://pan.baidu.com/s/1dvNbVS](https://pan.baidu.com/s/1dvNbVS) 密码：tj0t
+<<<<<<< HEAD:Res/Python视频教程资源.md
     - 目录 [Python全栈开发教学视频目录](/Res/Python全栈开发教学视频目录.md)
 
 * **Python升级3.6 强力Django+杀手级Xadmin打造在线教育平台**
@@ -19,3 +20,6 @@
     - 链接 : https://pan.baidu.com/s/1Li0dyZM5dGEOIB6St66zwQ  密码:z8rc
 
 
+=======
+    - 目录 [Python 全栈开发教学视频目录](/Res/Python 全栈开发教学视频目录.md)
+>>>>>>> parent of e80b4d6... 两点水:Res/Python 视频教程资源.md
