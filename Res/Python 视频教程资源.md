@@ -5,7 +5,7 @@
    - 解压密码：www.snowfox.wang
 
 * **黑马**
-   - 链接：[http://pan.baidu.com/s/1nvJox4H](http://pan.baidu.com/s/1nvJox4H) 密码：h0d2
+   - 链：[http://pan.baidu.com/s/1nvJox4H](http://pan.baidu.com/s/1nvJox4H) 密码：h0d2
 
 * **Python 全栈开发教程**
     - 链接：[https://pan.baidu.com/s/1dvNbVS](https://pan.baidu.com/s/1dvNbVS) 密码：tj0t
